@@ -1,6 +1,5 @@
 # Hello, I am **Andre** 👋
 
-### 👨‍💻 Sobre Mim
 ### 👨‍💻 About Me
 Currently, I am focused on honing my skills in **Java** and programming logic. This repository is part of my learning journey, where I document my projects and technical evolution.
 
