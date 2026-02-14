@@ -9,6 +9,7 @@ Currently, I am focused on honing my skills in **Java** and programming logic. T
 
 ###  Tech Stack & Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!--
 **Andre-Luis-Fialho/Andre-Luis-Fialho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
